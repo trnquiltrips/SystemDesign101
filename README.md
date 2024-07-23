@@ -2,6 +2,8 @@
 
 Welcome to **SystemDesign101**! This repository is dedicated to providing high-quality resources for mastering system design, whether you are learning from scratch, refining your skills, or preparing for interviews.
 
+![Distributed Systems](images/home.jpg)
+
 ## Why System Design?
 
 System design is a complex and critical topic in software engineering. It requires understanding a broad range of concepts and being able to apply them effectively. Mastering system design involves going through diverse resources across different platforms, which can be overwhelming. This repository aims to simplify that journey by consolidating valuable resources in one place.
