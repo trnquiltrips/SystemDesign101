@@ -30,6 +30,7 @@ System design is a complex and critical topic in software engineering. It requir
 2. [Database: Indexes (part 1)](https://deepdivedesigns.substack.com/p/database-indexes-part-1)
 3. [Database: Indexes (part 2)](https://deepdivedesigns.substack.com/p/database-indexes-part-2)
 4. [Data Warehouse](https://deepdivedesigns.substack.com/p/database-oltp-vs-olap)
+5. [A Guide to Evolvable Data Models and Encoding (Thrift, Protobuf, Avro)](https://deepdivedesigns.substack.com/p/database-a-guide-to-evolvable-data)
 
 This is just the beginning. We will add content for all the topics in distributed systems and discuss real-world distributed systems in the coming days. Stay tuned for more updates!
 
